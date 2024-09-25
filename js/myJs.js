@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "m.me/ga.beatsteaman.tk";
+            window.location = "http://m.me/ga.beatsteaman.tk";
           },
         });
       }
